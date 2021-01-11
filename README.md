@@ -1,6 +1,6 @@
 # Site Netflix Clone
 ## Sobre o projeto
-Site Netflix feito com ReactJS.
+Site Netflix feito com ReactJS. Os dados do filmes e séries são acessado via API (themoviedb).
 ## Screenshots
 * **ScreenShot 1**
 
